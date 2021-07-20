@@ -9,3 +9,5 @@ The Metaculus API does not easily allow searching by category, so i had to do th
  - feed the IDs into the API to get the data
 
 The google sheet I did this on is [here](https://docs.google.com/spreadsheets/d/1qhUzC4y5lR3S7ZSPxbEiun38ovfv-57VYTH_PhstckI/edit#gid=0) 
+
+Another sheet I used for some calculations and data parsing is [here](https://docs.google.com/spreadsheets/d/1qhUzC4y5lR3S7ZSPxbEiun38ovfv-57VYTH_PhstckI/edit#gid=0)
